@@ -1,2 +1,2 @@
 # gameofthrones-restful-jersey
- assisgnment from greenlight planet
+ assignment from greenlight planet
